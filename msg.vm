@@ -1,0 +1,3 @@
+Dear $name, 
+
+we regret to inform you that we will not be able to complete delivery of $productName of Snapdeal Order No. $orderCode as the shipment is lost in transit by our courier partner $shippingProvider.#if($shippingMethod=="STD") We would initiate refund process within 48 hrs.#end Inconvenience caused is deeply regretted.
